@@ -10,8 +10,9 @@ Informa os clientes cadastrados, com opção para cadastrar novos clientes, edit
 - **[Laravel 10](https://laravel.com/)**
 - **[MySQL](https://dev.mysql.com/downloads/installer/)**
 - **[Composer](https://getcomposer.org/download/)**
-<br>
-#
+
+##
+
 
 <h1 align="center">
     <img src="resources/css/assets/crud.jpg/">
